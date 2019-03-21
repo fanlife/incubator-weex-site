@@ -281,5 +281,13 @@ export default [
     iOS:
       'https://itunes.apple.com/cn/app/%E6%9C%89%E8%B5%9E%E5%BE%AE%E5%95%86%E5%9F%8E-%E6%89%8B%E6%9C%BA%E5%BF%AB%E9%80%9F%E5%BC%80%E5%BE%AE%E5%BA%97/id880579403?mt=8',
     android: 'https://a.app.qq.com/o/simple.jsp?pkgname=com.qima.kdt'
+  },
+  {
+    name_CN: '返利',
+    name_EN: 'fanli',
+    icon: 'http://static2.51fanli.net/common/images/icon/app-logo.png',
+    iOS:
+      'https://huodong.fanli.com/webapp/smartphone?ref=searchbar&spm=event.h5.adid-40723',
+    android: 'https://huodong.fanli.com/webapp/smartphone?ref=searchbar&spm=event.h5.adid-40723'
   }
 ];
